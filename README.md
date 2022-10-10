@@ -13,3 +13,9 @@ Functions that i used for my projects
             
             like this cases we are going to use this function
             
+above code i use "," so you need to change the sign for your code!!!
+
+            change the code where
+                        "result = ",".join(result)"
+                        to
+                        "result = ":".join(result)"
