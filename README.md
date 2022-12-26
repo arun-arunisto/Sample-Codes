@@ -39,5 +39,7 @@ above code i use "," so you need to change the sign for your code!!!
               )
             table = db_cursor.fetchall()
             list_none_conversion(table=table) ---> my function to change the data structure and none 
-            
+           
+3. Edube LED Display
+            Edube part 2 string methods task to print led 7 format display code refer from stackoverflow
             
