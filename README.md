@@ -42,4 +42,7 @@ above code i use "," so you need to change the sign for your code!!!
            
 3. Edube LED Display
             Edube part 2 string methods task to print led 7 format display code refer from stackoverflow
+
+4. Edube Reading Int Safely
+            Edube part2 exception handling task to read int safely
             
